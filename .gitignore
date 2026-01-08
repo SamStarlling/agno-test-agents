@@ -12,3 +12,7 @@ wheels/
 # env files (can opt-in for committing if needed)
 .env.local
 .env
+
+# Database files
+temp/*
+tmp/*
